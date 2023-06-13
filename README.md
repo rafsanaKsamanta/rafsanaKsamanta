@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafsana Kabir Samanta</h1>
-<h3 align="center">I am a Software Quality Assurance Engineer and Business Analyst from Bangladesh, A negative thinkers who takes software testing seriously, smiles after finding root causes of problem, A geek and loves to automate boring stuffs.</h3>
+<h3 align="center">I am a Software Quality Assurance Engineer from Bangladesh, A negative thinker who takes software testing seriously, smiles after finding root causes of problem, A geek and loves to automate boring stuffs.</h3>
 
 - 🌱 I’m currently learning **more about Test Automation, Systems Design.**
 
